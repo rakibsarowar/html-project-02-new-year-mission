@@ -43,3 +43,24 @@ p{
     padding: 20px 25px;
     border-radius: 5px;
 }
+
+/* section-one | about past year area- styling */
+.about-past-year{
+    display: flex;
+    align-items: center;
+    margin:  0 250px;
+}
+.about-failure{
+    width: 400px;
+}
+.section-title-1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    padding-bottom: 60px;
+}
+
+ul>li{
+    margin: 10px 0px;
+}
+

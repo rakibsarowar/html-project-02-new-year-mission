@@ -43,6 +43,9 @@ p{
 
 
 /* section-one || about past year area- styling */
+.section-1{
+    margin: 100px 0px;
+}
 .about-past-year{
     display: flex;
     align-items: center;
